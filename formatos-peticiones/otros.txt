@@ -1,0 +1,9 @@
+GET:
+
+http://localhost/api/cliente/{dni del cliente}
+
+http://localhost/api/servicios/
+
+http://localhost/api/provncias/
+
+http://localhost/api/localidades/provincia/{id de provincia}
